@@ -1,0 +1,13 @@
+{
+    "name": "Cyrptotrack",
+    "version": "1.0.0",
+    "description": "know the crypto prices time to time",
+    "manifest_version": 3,
+    "author": "venu tejaswi",
+    "action":{
+        "default_popup": "crypto.html",
+        "default_title": "Latest Cyrptocurrency prices"
+
+    }
+ 
+}
